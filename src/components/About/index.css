@@ -1,0 +1,25 @@
+.about-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.card-img {
+  height: 110px;
+  width: 100px;
+}
+
+.card-heading {
+  font-family: Roboto;
+  color: #6d396b;
+  font-size: 28px;
+}
+
+.card-description {
+  font-family: Roboto;
+  color: #555555;
+  font-size: 18px;
+  text-align: center;
+}
